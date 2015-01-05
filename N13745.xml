@@ -118,22 +118,22 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:017368_0000_0FA10DB7C6A69748"/>
-            <pb facs="tcp:017368_0001_0FA10DAEB174B0B8"/>
+            <pb facs="unknown:017368_0000_0FA10DB7C6A69748"/>
+            <pb facs="unknown:017368_0001_0FA10DAEB174B0B8"/>
             <p>MONODY ON MAJOR ANDRE.</p>
             <p>BY MISS SEWARD. (AUTHOR OF THE ELEGY ON CAPT. COOK)</p>
             <p>TO WHICH ARE ADDED, LETTERS ADDRESSED TO HER BY MAJOR ANDRE, IN THE YEAR 1769.</p>
             <p>NEW-YORK, PRINTED BY JAMES RIVINGTON. M.DCC.LXXXI.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:017368_0002_0FA10DB0A5E9D750"/>
+            <pb facs="unknown:017368_0002_0FA10DB0A5E9D750"/>
             <head>TO HIS EXCELLENCY, SIR HENRY CLINTON, KNIGHT OF THE BATH.</head>
             <opener>
                <salute>SIR,</salute>
             </opener>
             <p>WITH the zeal of a religious Enthusiast to his murdered Saint, the Author of this mournful Eulogium consecrates it to the me<g ref="char:EOLhyphen"/>mory of Major Andrè, who fell a Martyr in the Cause of his King and Country, with the firm intrepidity of a Roman, and the amiable resignation of a Christian Hero.</p>
             <p>Distant Awe and Reverence prevent her offering these Effusions of Grati<g ref="char:EOLhyphen"/>tude to the beneficent and Royal Pa<g ref="char:EOLhyphen"/>tron
-<pb n="iv" facs="tcp:017368_0003_0FA10DB315B05670"/>
+<pb n="iv" facs="unknown:017368_0003_0FA10DB315B05670"/>
 of the Andrè Family. May Mr. Andrè's illustrious General, the Guar<g ref="char:EOLhyphen"/>dian of his injured Honour, his conspi<g ref="char:EOLhyphen"/>cuous and personal Friend, deign to accept them from One, who was once happy in the Friendship of the GLORIOUS SUFFERER.</p>
             <closer>
                <signed>
@@ -143,7 +143,7 @@ of the Andrè Family. May Mr. Andrè's illustrious General, the Guar<g ref="char
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:017368_0004_0FA10DB35DCC4FA8"/>
+            <pb facs="unknown:017368_0004_0FA10DB35DCC4FA8"/>
             <head>MONODY ON MAJOR ANDRE.</head>
             <lg>
                <l>LOUD howls the storm! the vo<gap reason="illegible: indecipherable" extent="1 letter">
@@ -169,7 +169,7 @@ of the Andrè Family. May Mr. Andrè's illustrious General, the Guar<g ref="char
                <l>Where long she sat and check'd the ardent rein,</l>
                <l>As whirl'd his chariot o'er the embattled plain;</l>
                <l>
-                  <pb n="2" facs="tcp:017368_0005_0FA10DB40F87B158"/>
+                  <pb n="2" facs="unknown:017368_0005_0FA10DB40F87B158"/>
 Gilded with sunny smile her April tear,</l>
                <l>Rais'd her white arm, and stay'd th' uplifted spear;</l>
                <l>Then, in her place, bids Vengeance mount the car,</l>
@@ -203,7 +203,7 @@ Gilded with sunny smile her April tear,</l>
                <l>Belov'd Companion of the fairest hours</l>
                <l>That rose for her in Joy's resplendent bow'rs,</l>
                <l>
-                  <pb n="3" facs="tcp:017368_0006_0FA10DB88C761428"/>
+                  <pb n="3" facs="unknown:017368_0006_0FA10DB88C761428"/>
 How gaily shone on thy bright morn of Youth</l>
                <l>The Star of Pleasure, and the Sun of Truth!</l>
                <l>Full from their source descended on thy mind</l>
@@ -226,7 +226,7 @@ How gaily shone on thy bright morn of Youth</l>
                      <hi>Julia's arm.</hi>—Mr. Andrè drew two miniature pictures of Miss Honora S—on his first acquaintance with her at Buxton, in the year 1769, the one for himself, the other for the Author of this poem.</note> Julia's arm it sweetly smiles,</l>
                <l>And each lorn thought, each long regret beguiles,</l>
                <l>
-                  <pb n="4" facs="tcp:017368_0007_0FA10DB95709D3C0"/>
+                  <pb n="4" facs="unknown:017368_0007_0FA10DB95709D3C0"/>
 Fondly she weeps the hand which form'd the spell,</l>
                <l>Now shroudless mould'ring in its earthy cell!</l>
             </lg>
@@ -263,7 +263,7 @@ Fondly she weeps the hand which form'd the spell,</l>
                <l>Drawn to thy roof, by Friendship's silver cord,</l>
                <l>Each social Joy had brighten'd at thy board;</l>
                <l>
-                  <pb n="5" facs="tcp:017368_0008_0FA10DBA184F5F98"/>
+                  <pb n="5" facs="unknown:017368_0008_0FA10DBA184F5F98"/>
 Science, and soft affection's blended rays</l>
                <l>Had shone unclouded on thy lengthen'd days;</l>
                <l>From hour, to hour, thy taste with conscious pride,</l>
@@ -300,7 +300,7 @@ Science, and soft affection's blended rays</l>
             </lg>
             <lg>
                <l>
-                  <pb n="6" facs="tcp:017368_0009_0FA10DBAD75CA2F8"/>
+                  <pb n="6" facs="unknown:017368_0009_0FA10DBAD75CA2F8"/>
 " Honora lost!—my happy Rival's Bride!</l>
                <l>" Swell ye full Sails! and roll thou mighty Tide!</l>
                <l>" O'er the dark waves forsaken Andrè bear</l>
@@ -334,7 +334,7 @@ Science, and soft affection's blended rays</l>
                <l>" Wide o'er the wat'ry world its echos roll,</l>
                <l>" And rouse each latent ardor of my Soul.</l>
                <l>
-                  <pb n="7" facs="tcp:017368_0010_0FA10DBB87004450"/>
+                  <pb n="7" facs="unknown:017368_0010_0FA10DBB87004450"/>
 " And tho' unlike the soft melodious lay,</l>
                <l>" That gaily wak'd Honora's nuptial day,</l>
                <l>" Its deeper tones shall whisper, e'er they cease,</l>
@@ -370,7 +370,7 @@ Science, and soft affection's blended rays</l>
                <l>" Dim clouds of Woe! ye veil each sprightly grace</l>
                <l>" That us'd to sparkle in Maria's face.</l>
                <l>
-                  <pb n="8" facs="tcp:017368_0011_0FA10DBC47F28BC0"/>
+                  <pb n="8" facs="unknown:017368_0011_0FA10DBC47F28BC0"/>
 " My <note n="†" place="bottom">
                      <hi>Tuneful Anna.</hi>—Miss Anna Andrè has a poetical talent.</note> tuneful Anna to her lute complains,</l>
                <l>" But Griefs fond throbs arrest the parting strains.</l>
@@ -402,7 +402,7 @@ Science, and soft affection's blended rays</l>
                <l>" Friend of my Soul! and guardian of my</l>
                <l>" Youth!</l>
                <l>
-                  <pb n="9" facs="tcp:017368_0012_0FA10DBD08B4BE98"/>
+                  <pb n="9" facs="unknown:017368_0012_0FA10DBD08B4BE98"/>
 " Skill'd to convert the duty to the choice,</l>
                <l>" My gentle Mother!—in whose melting voice</l>
                <l>" The virtuous precept, that perpetual flow'd,</l>
@@ -441,7 +441,7 @@ Science, and soft affection's blended rays</l>
                <l>While furious on the craggy coast they rave,</l>
                <l>All calm and lovely rolls the distant wave;</l>
                <l>
-                  <pb n="10" facs="tcp:017368_0013_0FA10DBE98D4D790"/>
+                  <pb n="10" facs="unknown:017368_0013_0FA10DBE98D4D790"/>
 For onward, as th' unbounded waters spread,</l>
                <l>Deep sink the rocks in their capacious bed,</l>
                <l>And all their pointed terrors utmost force,</l>
@@ -478,7 +478,7 @@ For onward, as th' unbounded waters spread,</l>
                <l>Snatch the dark plumage from his awful crest,</l>
                <l>And tear the golden crescent from his breast;</l>
                <l>
-                  <pb n="11" facs="tcp:017368_0014_0FA10DBF435A13F8"/>
+                  <pb n="11" facs="unknown:017368_0014_0FA10DBF435A13F8"/>
 The sword, the tube, that wings the death from far,</l>
                <l>And all the fatal implements of War!</l>
             </lg>
@@ -513,7 +513,7 @@ The sword, the tube, that wings the death from far,</l>
             </lg>
             <lg>
                <l>
-                  <pb n="12" facs="tcp:017368_0015_0FA10DC364C3C9F8"/>
+                  <pb n="12" facs="unknown:017368_0015_0FA10DC364C3C9F8"/>
 " 'Tis fix'd!—these lips shall resolute inclose</l>
                <l>" The precious Soother of my ceaseless woes.</l>
                <l>" And should relentless violence invade</l>
@@ -573,7 +573,7 @@ The sword, the tube, that wings the death from far,</l>
                <l>His modest temperance, his wakeful heed,</l>
                <l>His silent diligence, his ardent speed,</l>
                <l>
-                  <pb n="13" facs="tcp:017368_0016_0FA10DC519BFCC00"/>
+                  <pb n="13" facs="unknown:017368_0016_0FA10DC519BFCC00"/>
 Each warrior duty to the Veteran taught,</l>
                <l>Shaming the vain experience Time had brought.</l>
                <l>Dependance scarcely feels his gentle sway,</l>
@@ -617,7 +617,7 @@ Each warrior duty to the Veteran taught,</l>
             </lg>
             <lg>
                <l>
-                  <pb n="14" facs="tcp:017368_0017_0FA10DC6AB4B09D0"/>
+                  <pb n="14" facs="unknown:017368_0017_0FA10DC6AB4B09D0"/>
 As fair Euryalus to meet his Fate,</l>
                <l>With Nysus rushes from the Dardan gate,</l>
                <l>Relentless Fate! whose fury scorns to spare</l>
@@ -656,7 +656,7 @@ As fair Euryalus to meet his Fate,</l>
                <l>To fruitless conquest, and to countless graves</l>
                <l>Led her gay Legions o'er the western waves!</l>
                <l>
-                  <pb n="15" facs="tcp:017368_0018_0FA10DC6DC1B4060"/>
+                  <pb n="15" facs="unknown:017368_0018_0FA10DC6DC1B4060"/>
 The Fiend of Discord, cow'ring at the prow,</l>
                <l>Sat darkly smiling at th' impending woe.</l>
             </lg>
@@ -700,7 +700,7 @@ The Fiend of Discord, cow'ring at the prow,</l>
                <l>Severe to use the pow'r that fortune gave,</l>
                <l>Thou cool determin'd Murderer of the Brave!</l>
                <l>
-                  <pb n="16" facs="tcp:017368_0019_0FA10DC785790428"/>
+                  <pb n="16" facs="unknown:017368_0019_0FA10DC785790428"/>
 Lost to each fairer Virtue that inspires</l>
                <l>The genuine fervor of the Patriot fires!</l>
                <l>And You, the base Abettors of the doom,</l>
@@ -737,7 +737,7 @@ Lost to each fairer Virtue that inspires</l>
             </lg>
             <lg>
                <l>
-                  <pb n="17" facs="tcp:017368_0020_0FA10DC8507FA9D0"/>
+                  <pb n="17" facs="unknown:017368_0020_0FA10DC8507FA9D0"/>
 Less cruel far than thou, on Illium's plain</l>
                <l>Achilles, raging for Patroclus slain!</l>
                <l>When hapless Priam bends the aged knee</l>
@@ -776,7 +776,7 @@ Less cruel far than thou, on Illium's plain</l>
                <l>Lamented Youth! while with inverted spear</l>
                <l>The British Legions pour th' indignant tear!</l>
                <l>
-                  <pb n="18" facs="tcp:017368_0021_0FA10DC911A620A0"/>
+                  <pb n="18" facs="unknown:017368_0021_0FA10DC911A620A0"/>
 Round the dropt arm the <note n="§" place="bottom">
                      <hi>Funeral-scarf.</hi>—Our whole army in America went into mourning for Major Andrè, a distin<g ref="char:EOLhyphen"/>guish'd tribute to his merit.</note> funeral-scarf entwine,</l>
                <l>And in their hearts deep core thy worth enshrine;</l>
@@ -790,7 +790,7 @@ Round the dropt arm the <note n="§" place="bottom">
             </lg>
          </div>
          <div type="letters">
-            <pb facs="tcp:017368_0022_0FA10DC9CBD3E888"/>
+            <pb facs="unknown:017368_0022_0FA10DC9CBD3E888"/>
             <head>LETTERS</head>
             <head>Addressed to the AUTHOR of the foregoing POEM, by MAJOR ANDRE, when he was a Youth of EIGHTEEN,</head>
             <div n="1" type="letter">
@@ -799,21 +799,21 @@ Round the dropt arm the <note n="§" place="bottom">
                   </dateline>
                </opener>
                <p>FROM their agreeable excursion to Shrewsbury my dearest Friends are by this time returned to their thrice beloved Lichfield—Once again have they beheld those fortunate <hi>spires,</hi> the con<g ref="char:EOLhyphen"/>stant witnesses of all their pains and pleasures. I can well conceive the emotions of joy which their first appearance, from the neighbouring hills, excites after absence;—they seem to welcome you home, and invite you to reiterate those hours of happiness, of which they are a species of monument. I shall have an eternal love and reverence for them. Never shall I forget the joy that danc'd in Honora's eyes, when she first shewed them to me from Needwood Forest on our return with you from Baxton to Lichfield. I remember she called them the <hi>Ladies of the Valley</hi>—their lightness and elegance deserve the title. Oh! how I lov'd them from that instant! My enthusiasm concerning them is car<g ref="char:EOLhyphen"/>ried further even than yours and Honora's, for ev'ry object that has a pyramidal form, recalls
-<pb n="20" facs="tcp:017368_0023_0FA10DCA95ACB4C0"/>
+<pb n="20" facs="unknown:017368_0023_0FA10DCA95ACB4C0"/>
 them to my recollection, with a sensation, that brings the tear of pleasure into my eyes.</p>
                <p>How happy must you have been at Shrewsbury! only that you tell me, alas! that dear Honora was not so well as you wished during your stay there.—I always hope the best. My impatient spirit rejects every obtruding idea, which I have not fortitude to support—Doctor Darwin's skill, and your tender care will remove that sad pain in her side, which makes writing troublesome and injurious to her; which robs her poor <hi>Cher Jean</hi>
                   <note n="*" place="bottom">A name of kindness, by which Mr. Andre was often called by his Mother and Sisters, and generally adopted by the persons mentioned in these letters.</note> of those precious pages, with which, he flatters himself, she would otherwise have in<g ref="char:EOLhyphen"/>dulg'd him.</p>
                <p>So your happiness at Shrewsbury scorn'd to be indebted to public amusements—Five Vir<g ref="char:EOLhyphen"/>gins—united in the soft bonds of friendship!—How I should have lik'd to have made the sixth!—But you surprize me by such an absolute exclusion of the Beaux—I certainly thought that when five wise Virgins were watching at mid<g ref="char:EOLhyphen"/>night, it must have been in expectation of the Bridegroom's coming. <hi>We</hi> are at this instant five Virgins, writing round the same table—My three Sisters, Mr. Ewer, and myself. I beg no reflecting injurious to the honour of poor <hi>Cher Jean</hi> My Mother is gone to pay a visit, and has left us in possession of the old Coach; but as for nags, we can boast of only two long-tails, and my Sisters say they are sorry cattle, being no other than my friend Ewer and myself, who, to say truth, have enormous pig-tails.</p>
                <p>My dear Boissier is come to town;—he has brought a little of the soldier with him, but he is the same honest, warm, intelligent friend I
-<pb n="21" facs="tcp:017368_0024_0FA10DCB47113058"/>
+<pb n="21" facs="unknown:017368_0024_0FA10DCB47113058"/>
 always found him. He sacrifices the town di<g ref="char:EOLhyphen"/>versions, since I will not partake of them.</p>
                <p>We are jealous of your correspondents, who are so numerous—Yet, write to the Andres often, my dear Julia, for who are they that will value your letters quite so much as we value them?—The least scrap of a letter will be re<g ref="char:EOLhyphen"/>ceived with the greatest joy—write therefore, tho' it were only to give us the comfort of having a piece of paper which has recently passed thro' your hands:—Honora will put in a little postcript, were it only to tell me that she is <hi>my very sincere Friend,</hi> who will neither give me love nor comfort—very short indeed, Honora, was thy last postcript—But I am too pre<g ref="char:EOLhyphen"/>sumptuous;—I will not scratch out, but I <hi>un</hi>say—From the little there <hi>was</hi> I received more joy than I deserve.—This <hi>Cher Jean</hi> is an impertinent fellow, but he will grow discreet in time—you must consider him as a poor novice of <hi>eighteen,</hi> who, for all the sins he may com<g ref="char:EOLhyphen"/>mit, is sufficiently punished in the single evil of being 120 miles from Lichfield.</p>
                <p>My Mother and Sisters will go to Putney in a few days to stay some time—We none of us like Clapton—<hi>I</hi> need not care, for I am all day long in town; but it is avoiding Scylla to fall into Charybdis.—You paint to me the pleasant vale of Stow in the richest autumnal colouring.—In return I must tell you, that my zephyrs are wafted through cracks in the wainscot; for murmuring streams I have dirty kennels; for bleating flocks, grunting pigs; and squalling cats for birds that incessantly warble—I have said something of this sort in my letter to Miss Spearman, and am twing'd with the idea of these epistles being confronted, and that I shall recall to your memory the fat Knight's love letters to Mrs. Ford and Mrs. Page.</p>
                <p>Julia, perhaps thou fanciest I am merry—
-<pb n="22" facs="tcp:017368_0025_0FA1122B0794C3F0"/>
+<pb n="22" facs="unknown:017368_0025_0FA1122B0794C3F0"/>
 Alas!—But I do not wish to make you as dole<g ref="char:EOLunhyphen"/>ful as myself; and besides, when I would ex<g ref="char:EOLhyphen"/>press the tender feelings of my soul, I have no language which does them any justice; if I had, I should regret that you could not have it fresher, and that whatever one communicates by letter must go such a round-about way, before it reaches one's correspondent; from the writer's heart, thro' his head, arm, hand, pen, ink, paper, over many a weary hill and dale, to the eye, head, and heart of the reader.—I have often regretted our not possessing a sort of faculty which should enable our sensations, remarks, &amp;c. to arise from their source in a sort of exhalation, and fall upon our paper in words and phrases properly adapted to express them, without passing through an imagination whose operations so often fail to second those of the heart. Then what a metamorphose should we see in the people's stile! How eloquent those who are truly attached! How stupid they who falsely profess affection! Perhaps the former had never been able to express half their regard; while the latter, by their flowers of rhetoric, has made us believe a thousand times more than they ever felt—But this is whimsical moralizing.</p>
                <p>My Sisters Penserosos were dispersed on their arrival in town, by the joy of seeing Louisa and their dear little Brother Billy again, our kind Uncle Girardot, and Uncle Lewis Andrè.—I was glad to see them, but they complained, not without reason, of the gloom upon my countenance—Billy wept for joy that we were returned, whole poor <hi>Cher Jean</hi> was ready to weep for sorrow. Louisa is grown still hand<g ref="char:EOLhyphen"/>somer since we left her. Our Sisters, Mary and Anne, knowing your partiality to beauty, are afraid when they shall introduce her to you, she will put their noses out of joint. Billy is not old enough for me to be afraid of in the rival
-<pb n="23" facs="tcp:017368_0026_0FA1122BC798E688"/>
+<pb n="23" facs="unknown:017368_0026_0FA1122BC798E688"/>
 way, else I should keep him aloof, for his heart is formed of these affectionate materials, so dear to the ingenuous taste of Julia and her Honora.</p>
                <p>I sympathize in your resentment against the Canonical Dons, who stumpify the heads of those good green <note n="†" place="bottom">The trees in the Cathedral walk in Lichfeld.</note> people, beneath whose friendly shade so many of your happiest hours have glided away—but they defy them; let them stumpify as much as they please, time will repair the mischief—their verdant arms will again extend, and invite You to their shelter.</p>
                <p>The evenings grow long—I hope your con<g ref="char:EOLhyphen"/>versations round the fire will sometimes fall on the Andrès; it will be a great comfort that they are remembered. We chink our glasses to your healths at every meal—Here's to our Lich<g ref="char:EOLhyphen"/>fieldian friends, says Nanny;—Oh—h, says Mary;—with all my soul, say I;—Alons, cries my mother;—and the draught seems nectar. The libation made, we begin our uncloying theme, and so beguile the gloomy evening.</p>
@@ -823,18 +823,18 @@ way, else I should keep him aloof, for his heart is formed of these affectionate
                </closer>
             </div>
             <div n="2" type="letter">
-               <pb n="25" facs="tcp:017368_0027_0FA1122CF78AA890"/>
+               <pb n="25" facs="unknown:017368_0027_0FA1122CF78AA890"/>
                <head>LETTER II.</head>
                <opener>
                   <dateline>LONDON, <date>October 19, 1769.</date>
                   </dateline>
                </opener>
                <p>FROM the midst of books, papers, bills, and other implements of gain, let me lift up my drowsy head a while to converse with dear Julia.—And first, as I know she has a fervent wish to see me a Quill-driver, I must tell her, that I begin, as people are wont to do, to look upon my future profession with great partiality. I no longer see it in so disadvantageous a light<g ref="char:punc">▪</g> Instead of figuring a Merchant as a middle-aged man, with a bob-wig, a rough beard, in snuff colour'd cloaths, grasping a guinea in his red hand; I conceive a comely young man, with a tolerable pig-tail, wielding a pen with all the noble fierceness of the Duke of Marlborough brandishing a truncheon upon a sign-post, sur<g ref="char:EOLhyphen"/>rounded with types and emblems, and canopied with cornucopiaes that disembogue their stores upon his head; Mercuries reclin'd upon bales of goods; Genii playing with pens, ink and paper;—while in perspective, his gorgeous Vessels "launch'd on the bosom of the silver Thames," are wafting to distant lands the pro<g ref="char:EOLhyphen"/>duce of this commercial Nation—Thus all the mercantile glories crowd on my fancy, em<g ref="char:EOLhyphen"/>blazon'd in the most refulgent colouring of an ardent imagination—Borne on her soaring pinions I wing my flight to the time when
-<pb n="26" facs="tcp:017368_0028_0FA1122D76705720"/>
+<pb n="26" facs="unknown:017368_0028_0FA1122D76705720"/>
 Heaven shall have crowned my labours with success and opulence. I see sumptuous palaces rising to receive me—I see Orphans, and Wi<g ref="char:EOLhyphen"/>dows, and Painters, and Fidlers, and Poets, and Builders, protected and encourag'd; and when the fabrick is pretty nearly finished by my shattered Pericranium, I cast my eyes around, and find John Andrè, by a small coal fire, in a gloomy Compting-house in Warnford Court, nothing so little as what he has been making himself, and in all probability never to be much more than he is at present.—But oh! my dear Honora!—it is for thy sake only I wish for wealth.—You say she was somewhat better at the time you wrote last. I must flatter myself that she will soon be without any remains of this threat'ning disease.</p>
                <p>It is seven o'clock—You and Honora, with two or three more select friends, are now pro<g ref="char:EOLhyphen"/>bably encircling your dressing-room fire-place. What would I not give to enlarge that circle! The idea of a clean hearth, and a snug circle round it, form'd by a few sincere friends, transports me. You seem combin'd together against the inclemency of the weather, the hurry, bustle, ceremony, censoriousness, and envy of the World. The purity, the warmth, the kindly influence of fire, to all for whom it is kindled, is a good emblem of the friendship of such amiable minds as Julia's and her Honora's—Since I cannot be there in reality, pray imagine me with
  you; admit me to your conversationès think how I wish for the blessing of joining them!—and be persuaded that I take part in all your pleasures, in the dear hope, that e'er it be very long, your blazing hearth will burn again for me. Pray Keep me a place;—let the poker, tongs, or shovel, represent me;—But
-<pb n="27" facs="tcp:017368_0029_0FA1123121E43560"/>
+<pb n="27" facs="unknown:017368_0029_0FA1123121E43560"/>
 you have Dutch-tiles, which are infinitely better;—So let Moses, or Aaron, or Balaam's Ass be my representative.</p>
                <p>But time calls me to Clapton.—I quit you abruptly till to-morrow: when, if I do not tear the nonsense I have been writing, I may perhaps increase its quantity. Signora Cynthia is in clouded Majesty.—Silver'd with her beams I am about to jog to Clapton upon my own stumps;—Musing as I homeward plod my way—Ah! need I name the subject of my con<g ref="char:EOLhyphen"/>templations!</p>
                <p>
@@ -843,7 +843,7 @@ you have Dutch-tiles, which are infinitely better;—So let Moses, or Aaron, or 
                <p>I had a sweet walk home last night, no found the Claptonians, with their fair guest a Miss Mourgue, very well—My Sisters send their amitiès and will write you in a few days.</p>
                <p>This morning I return'd to town—It has been the finest day imaginable—A solemn mild<g ref="char:EOLhyphen"/>ness was diffus'd throughout the blue horizon<g ref="char:punc">▪</g>—Its light was clear and distinct rather than dazzling; the serene beams of the autumnal fun!—Gilded hills,—variegated woods,—glittering spires,—ruminating herds,—bounding flocks,—all combin'd to inchant the eyes, ex<g ref="char:EOLhyphen"/>pand the heart, and "chace all sorrow but despair."—In the midst of such a scene, no lesser grief can prevent our sympathy with na<g ref="char:EOLhyphen"/>ture—A calmness, a benevolent disposition seizes us with sweet insinuating power.—The very brute creation seem sensible of these beau<g ref="char:EOLhyphen"/>ties;—There is a species of mild chearfulness in the face of a Lamb, which I have but in differently express'd in a corner of my paper, and a demure contented look in an Ox, which, in the fear of expressing still worse, I leave unattempted.</p>
                <p>
-                  <pb n="28" facs="tcp:017368_0030_0FA11231C3FC10B8"/>
+                  <pb n="28" facs="unknown:017368_0030_0FA11231C3FC10B8"/>
 Business calls me away—I must dispatch my letter. Yet what does it contain?—No matter, you like any thing better than news,—Indeed you never told me so, but I have an intuitive knowledge upon the subject, from the sympathy which I have constantly perceived in the taste of Julia and Cher Jean.—What is it to you or me</p>
                <lg>
                   <l>If here in the city we have nothing but riot,</l>
@@ -859,7 +859,7 @@ Business calls me away—I must dispatch my letter. Yet what does it contain?—
                </lg>
                <p>This little French cousin of ours, Delarise, was my sister Mary's play-fellow at Paris. His sprightliness engages my Sisters extremely. Doubtless they talk much of him to you in their letters.</p>
                <p>How sorry I am to bid you adieu! Oh let me not be forgot by the friends most dear to you at
-<pb n="29" facs="tcp:017368_0031_0FA112335AE87938"/>
+<pb n="29" facs="unknown:017368_0031_0FA112335AE87938"/>
 Lichfield!—<hi>Lichfield!</hi> Ah! of what magic let<g ref="char:EOLhyphen"/>ters is that little word compos'd!—How grace<g ref="char:EOLhyphen"/>ful it looks when it is written!—Let nobody talk to me of its original meaning "<note n="*" place="bottom">
                      <hi>Field of Blood</hi>—Here is a <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -879,7 +879,7 @@ Lichfield!—<hi>Lichfield!</hi> Ah! of what magic let<g ref="char:EOLhyphen"/>t
                </closer>
             </div>
             <div n="3" type="letter">
-               <pb n="31" facs="tcp:017368_0032_0FA112342F20BE38"/>
+               <pb n="31" facs="unknown:017368_0032_0FA112342F20BE38"/>
                <head>LETTER III.</head>
                <opener>
                   <dateline>CLAPTON, <date>November 1, 1769.</date>
@@ -889,7 +889,7 @@ Lichfield!—<hi>Lichfield!</hi> Ah! of what magic let<g ref="char:EOLhyphen"/>t
                <p>Surely you applaud the fortitude with which I left you!—Did I not come off with flying colours?—It was a great effort, for, alas! this recreant heart did <hi>not second</hi> the smiling courage of the <hi>countenance,</hi> nor is it yet as it ought to be, from the hopes it may reasonably entertain of seeing you all again e'er the winter's dreary hours are past.—Julia, my dear Julia, gild them with tidings of our beloved Honora! Oh that you may be enabled to tell me that she regains her health, and her charming vivacity!—Your sympathising heart partakes all the joys and pains of your friends.—Never can I forget <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> kind offices, which were of such moment to my peace!—<hi>Mine</hi> is formed for friendship, and I am blest in being able to place so <hi>well</hi> the pur<g ref="char:EOLhyphen"/>est passion of an ingenuous mind!—How am I
-<pb n="32" facs="tcp:017368_0033_0FA11234C956A7D0"/>
+<pb n="32" facs="unknown:017368_0033_0FA11234C956A7D0"/>
 honoured in Mr. and Mrs. Seward's attachment to me?—Charming were the anticipations which beguiled the long tracks of hill, and dale, and plain that divide London from Lichfield!—With what delight my eager eyes <hi>drank</hi> their first view of the dear Spires.!—What raptures did I not feel on entering your gates!—In fly<g ref="char:EOLhyphen"/>ing up the hall steps!—in rushing into the din<g ref="char:EOLhyphen"/>ing room!—In meeting the gladen'd eyes of dear Julia and her enchanting Friend!—That instant convinced me of the truth of Rousseau's observation, "that there are <hi>moments</hi> worth ages."—Shall not those moments return? Ah Julia! the cold hand of absence is heavy upon the heart of your poor <hi>Cher Jean</hi>—He is forc<g ref="char:EOLhyphen"/>ed to hammer into it perpetually ev'ry consoling argument that the magic wand of Hope can conjure up; <abbr>viz.</abbr> that every moment of indus<g ref="char:EOLhyphen"/>trious absence advances his journey, you know whither.—I may some <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> make excursions to Lichfield, and bask in <gap reason="illegible: indecipherable" extent="1 word">
@@ -907,16 +907,16 @@ honoured in Mr. and Mrs. Seward's attachment to me?—Charming were the anticipa
                      <desc>〈◊〉</desc>
                   </gap> bell, which disperses the Beings, whom friendship and kindred virtues had drawn together<g ref="char:punc">▪</g>My imagination at aches itself to <hi>all,</hi> even the <hi>inanimate</hi> objects which surround Honora and her Julia;—that have beheld their graces and virtues expand and ripen;—my dear Honora's, from their infant bud.</p>
                <p>
-                  <pb n="33" facs="tcp:017368_0034_0FA112358459C500"/>
+                  <pb n="33" facs="unknown:017368_0034_0FA112358459C500"/>
 The sleepy Claptonian train are gone to bed, somewhat wearied with their excursion to En<g ref="char:EOLhyphen"/>field, whither they have this day carried their favourite little Frenchman;—<hi>so great</hi> a favour<g ref="char:EOLhyphen"/>ite, the parting was quite tragical. I walk'd hither from town, as usual, to night—no hour of the twenty-four is so precious to me as that devoted to this solitary walk.—Oh, my Friend! I am far from possessing the patient frame of mind which I so continually invoke!—Why is Lichfield an hundred and twenty miles from me? There is no <hi>moderation</hi> in the distance!—Fifty or sixty miles had been a great deal too much, but <hi>then,</hi> there would have been less opposition from <hi>authority</hi> to my frequent visits—I conjure you, supply the want of these blessings by fre<g ref="char:EOLhyphen"/>quent <hi>letters</hi>—I must not, will not ask them of Honora, since the use of the pen is forbid to her declining health;—I will content myself, as usual, with a postcript from her in your epistles.—My Sisters are charm'd with the packet which arrived yesterday, and which they will answer soon.</p>
                <p>As yet I have said nothing of our journey. We met an entertaining Irish Gentlemen at Dun<g ref="char:EOLhyphen"/>church, and, being fellow-sufferers in cold and hunger, join'd interests, order'd four horses, and stuffed three into a chaise.—It is not <hi>you,</hi> I need apologize for talking in raptures of an Higler, whom we met in our road. His cart had passed us, and was at a considerable distance, when looking back, he perceiv'd that our chaise had stop'd, and that the Driver seem'd mend<g ref="char:EOLhyphen"/>ing something. He ran up to him, and with a face full of honest anxiety, pity, good na<g ref="char:EOLhyphen"/>ture, and every sweet affection under heaven, ask'd him if he wanted any thing; that he had plenty of nails, ropes, &amp;c. in his cart. That
-<pb n="34" facs="tcp:017368_0035_0FA1123A65996590"/>
+<pb n="34" facs="unknown:017368_0035_0FA1123A65996590"/>
 wretch of a Postillion made no other reply than, "We want nothing Master." From the same impulse the good Irishman, Mr. Till, and my<g ref="char:EOLhyphen"/>self thrust our heads instantly out of the Chaise, and try'd to recompense to the honest Creature this surly reply, by every kind and grateful ac<g ref="char:EOLhyphen"/>knowledgment, and by forcing upon him a little pecuniary tribute. My benevolence will be the warmer, while I live, for the treasur'd remem<g ref="char:EOLhyphen"/>brance of this Higler's countenance.</p>
                <p>I know you interest yourself in my destiny—I have now completely subdued my aversion to the profession of a Merchant, and hope in time to acquire an inclination for it—Yet, God for<g ref="char:EOLhyphen"/>bid I should ever love what I am to make the object of my attention!—that vile trash, which I care not for, but only as it may be the future means of procuring the blessing of my Soul—thus all my Mercantile calculations go to the tune of <hi>dear Honora.</hi>—When an impertinent consciousness whispers in my ear, that I am not of the right stuff for a Merchant, I draw my Honora's picture from my bosom, and the sight of that dear Talisman so inspirits my industry, that no toil appears oppressive.</p>
                <p>The poetic task you set me is in a sad method—My head and heart are too full of other mat<g ref="char:EOLhyphen"/>ters to be engrossed by a draggle-tail'd Wench of the Heliconian puddle.</p>
                <p>I am going to try my interest in Parliament—How you stare!—It is to procure a frank.—Be so good to give the inclos'd to Honora;—<hi>it</hi> will speak to <hi>her</hi>—And do <hi>you</hi> say ev'ry thing that is kind for me to every <hi>other</hi> distinguish'd Friend in the Dressing-room circle—encourage them in their obliging desire of scribbling in your letters, but don't let them take Honora's corner of the sheet.</p>
                <p>
-                  <pb n="35" facs="tcp:017368_0036_0FA1123C23EA6D70"/>
+                  <pb n="35" facs="unknown:017368_0036_0FA1123C23EA6D70"/>
 Adieu!—May you all possess that cheerfulness denied to your <hi>Cher Jean.</hi> I fear it hurts my mother to see my musing moods;—but I can neither help nor overcome them.—The near hopes of another excursion to Lichfield, could alone disperse every gloomy vapour, of my imagination. Again, and yet again Adieu!</p>
                <closer>
                   <signed>J. ANDRE.</signed>
